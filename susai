@@ -1,0 +1,2 @@
+cd https://github.com/valeriechanwy/valeriechanwy.github.io.git
+echo "Hello World" > index.html
