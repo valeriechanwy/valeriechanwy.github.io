@@ -1,2 +1,9 @@
-cd https://github.com/valeriechanwy/valeriechanwy.github.io.git
-echo "Hello World" > index.html
+
+> git clone https://github.com/valeriechanwy/valeriechanwy.github.io.git
+> cd susi_server
+> git checkout master
+> ant jar
+> java -jar dist/susiserver.jar
+> git checkout development
+> ant jar
+> java -jar dist/susiserver.jar
